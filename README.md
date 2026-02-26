@@ -1,0 +1,14 @@
+# Muhammed Pekdemir
+
+### Kişisel Bilgiler
+
+* **Yaş:** 19
+* **Konum:** İstanbul, Türkiye
+* **Eğitim:** İstanbul Aydın Üniversitesi - YBS (GNO: 3.47)
+
+### Teknik Yetkinlikler
+
+Veri analitiği ve makine öğrenmesi süreçlerinde Python (Pandas, NumPy, Scikit-Learn) ve SQL dillerine odaklanıyorum. 
+Machine Learning (ML) algoritmaları ile veri modelleme projeleri geliştirirken, veritabanı yönetimi için MS SQL Server ve PostgreSQL sistemlerini kullanmaktayım. 
+Ayrıca C#, C dilleriyle yazılım geliştirme ve AWS bulut servisleri üzerinde teknik yetkinliklerimi artırmaya devam ediyorum.
+İş akışlarımı Git, Cursor, Claude ve Gemini araçlarıyla optimize ederek analitik ve sürdürülebilir bir üretim disiplinine odaklanıyorum.
