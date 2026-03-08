@@ -4,7 +4,7 @@
 
 * **Yaş:** 19
 * **Konum:** İstanbul, Türkiye
-* **Eğitim:** İstanbul Aydın Üniversitesi - YBS (GNO: 3.47)
+* **Eğitim:** İstanbul Aydın Üniversitesi - YBS 
 
 ### Teknik Yetkinlikler
 
