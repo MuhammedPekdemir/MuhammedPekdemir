@@ -8,7 +8,4 @@
 
 ### Teknik Yetkinlikler
 
-Veri analitiği ve makine öğrenmesi süreçlerinde Python (Pandas, NumPy) ve SQL dillerine odaklanıyorum. 
-Machine Learning algoritmaları ile veri modelleme projeleri geliştirirken, veritabanı yönetimi için MS SQL Serveristemlerini kullanmaktayım. 
-Ayrıca C#, C dilleriyle yazılım geliştirme ve AWS bulut servisleri üzerinde teknik yetkinliklerimi artırmaya devam ediyorum.
-İş akışlarımı Git, Cursor, Claude, QWEN ve Gemini araçlarıyla optimize ederek analitik ve sürdürülebilir bir üretim disiplinine odaklanıyorum.
+Yönetim Bilişim Sistemleri eğitimimle teknoloji ve işletme bakış açısını bir arada kullanıyorum. Python (Pandas, NumPy) ve SQL ile veri analizi ve makine öğrenmesi projeleri geliştiriyor, veritabanı yönetiminde MS SQL Server kullanıyorum. C# ve C ile yazılım geliştirme deneyimime ek olarak AWS bulut servislerinde kendimi geliştiriyorum. Veriyi yalnızca teknik bir çıktı olarak değil, işletme kararlarını, pazarlama stratejilerini ve müşteri davranışını anlamaya yönelik içgörülere dönüştürmeyi hedefliyorum. İş akışımda Git, Cursor ve Claude, Gemini, Qwen gibi yapay zekâ araçlarından yararlanarak verimli ve sürdürülebilir bir çalışma düzeni oluşturuyorum.
